@@ -5,6 +5,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+Picked up old project, [Clock & Weather](#). I checked the old code, made few changes to the promise of the weather API.
+Created repository for Javascript Clock.
+Created the filler repository.
